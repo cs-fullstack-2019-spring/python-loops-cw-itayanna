@@ -2,11 +2,11 @@
 
 
 def main():
-    exercise1()
-    exercise2()
+    #exercise1()
+    #exercise2()
     exercise3()
-    exercise4()
-    fizBuzz()
+    #exercise4()
+    #fizBuzz()
 
 
 
